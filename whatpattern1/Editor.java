@@ -4,6 +4,8 @@ import XXX.example.publisher.EventManager;
 
 import java.io.File;
 
+// adding a comment
+//
 public class Editor {
     public EventManager events;
     private File file;
